@@ -12,5 +12,5 @@ elif o == '/':
     print("divison of 2 numbers: ",a / b)            
 elif o == '%':
     print("Remainder of 2 numbers: ", a % b)    
-else:
-    print("You entered invalid operator")    
+# else:
+#     print("You entered invalid operator")    
